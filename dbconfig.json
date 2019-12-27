@@ -1,6 +1,6 @@
 {
-  "hostname" : "localhost",
-  "username" : "root",
+  "hostname" : "db4free.net",
+  "username" : "sovest2",
   "password" : "Qwerty123456",
-  "dbname" : "kursach"
+  "dbname" : "sovest_kursach"
 }
